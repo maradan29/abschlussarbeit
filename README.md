@@ -44,8 +44,8 @@ Zuerst musst
 | Datum  | Aufwand | Tätigkeit |
 | ------------- | ------------- | ------------- |
 | 28.12.2020  | 2h  | Idee entwickeln, Ausgangsthese ausarbeiten  |
-| 29.12.2020  | 6h  | Scraper für Museen schreiben (in meinem Notebook **Museen.ipynb**) |
+| 29.12.2020  | 8h  | Scraper für Museen schreiben (in meinem Notebook **Museen.ipynb**) |
 | 30.12.2020  | 1h30  | Google API-Schlüssel erstellen |
-| 30.12.2020  | 5h  | Mit den Geodaten arbeiten (in meinem Notebook **Museen.ipynb**) |
+| 30.12.2020  | 7h  | Mit den Geodaten arbeiten (in meinem Notebook **Museen.ipynb**) |
 | 31.12.2020  | 1h  | Notebook **Museen.ipynb** kommentieren (es ist sehr wichtig, dass mein Code so klar wie möglich ist. Es muss nicht nur für andere verständlich sein, sondern auch für mich selbst, wenn ich es in einigen Monaten oder Jahren wieder verwenden muss) |
 | 31.12.2020  | 0h30  | Repository auf Github erstellen |
