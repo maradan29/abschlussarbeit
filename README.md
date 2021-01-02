@@ -3,6 +3,16 @@
 
  
 
+## Checklist
+
+- [x] Ausgangsthese
+- [x] Einschätzung von Aufwand/Ertrag vor Beginn des Projektes 
+- [x] Bezeichnung des Knackpunkts des Projektes
+- [ ] Kurze Zusammenfassung des Gesprächs mit einer Briefing Person 
+- [ ] Datensatz (auch bereits strukturierte Daten können verwendet werden) 
+- [ ] Programmiercode
+- [ ] Arbeitsprotokoll (Was hast du wann weshalb gemacht?)
+
 
 ## Der publizierte Artikel
 
