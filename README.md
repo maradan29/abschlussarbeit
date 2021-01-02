@@ -1,7 +1,8 @@
 
 # Abschlussarbeit - CAS in Datenjournalismus - Nicolas Maradan
 
- 
+
+
 
 ## Checklist
 
@@ -9,9 +10,10 @@
 - [x] Einschätzung von Aufwand/Ertrag vor Beginn des Projektes 
 - [x] Bezeichnung des Knackpunkts des Projektes
 - [ ] Kurze Zusammenfassung des Gesprächs mit einer Briefing Person 
-- [ ] Datensatz (auch bereits strukturierte Daten können verwendet werden) 
+- [ ] Datensatz
 - [ ] Programmiercode
-- [ ] Arbeitsprotokoll (Was hast du wann weshalb gemacht?)
+- [ ] Arbeitsprotokoll
+
 
 
 ## Der publizierte Artikel
@@ -19,14 +21,17 @@
 fdsafadsfasdf
 
 
+
 ## Ausgangsthese
 
 Kultur muss für alle zugänglich sein. Aber ist es wirklich so? In der Schweiz sind viele Museen nicht oder nur teilweise für Personen mit eingeschränkter Mobilität geeignet. Das Ziel unserer Analyse ist es, genau herauszufinden, wie viel Prozent und warum.
 
 
+
 ## Idee
 
 Für unsere Analyse verwenden wir die Suchmaschine, die auf der Website des Verband der Museen der Schweiz verfügbar ist. Mit diesem Tool können wir alle Museen in der Schweiz nach Kanton durchsuchen. Es ist möglich, nach verschiedenen Kriterien zu suchen, zum Beispiel nach der Rollstuhlgängigkeit. Wir werden die Informationen mit BeautifulSoup und Selenium sammeln. Ziel ist es herauszufinden, wie viel Prozent der Museen für Rollstuhlfahrer völlig zugänglich sind. Unser erster Eindruck ist, dass diese Rate sehr niedrig ist. Aber wieso? Offensichtlich befinden sich einige Museen in alten Gebäuden wie ein Schloss, in denen es nicht möglich ist, Zugangsrampen bereitzustellen. Aber könnten zusätzliche Anstrengungen unternommen werden? Dies ist eine der Fragen, die wir stellen müssen. Nach meinen Recherchen wurde zu diesem Thema (aus statistischer Sicht) noch kein Artikel verfasst, zumindest nicht in der Romandie. 
+
 
 
 ## Einschätzung von Aufwand / Ertrag
@@ -35,6 +40,7 @@ Auf den ersten Blick sollte das Sammeln der Daten kein Problem sein, da die Webs
 Aber es wäre auch interessant sein, Inclusion Handicap (Dachverband der Behindertenorganisationen in der Schweiz) zu kontaktieren. Diese Arbeit scheint innerhalb der Frist von fünf Tagen (40 Stunden) erreichbar zu sein.
 
 ![](diverses/spider.png)
+
 
 
 ## Knackpunkte
@@ -54,9 +60,11 @@ Aber es wäre auch interessant sein, Inclusion Handicap (Dachverband der Behinde
 ###### Und hier sind die grafischen Visualisierungen, die mit **Datawrapper** erstellt wurden.
 
 
+
 ## Briefingpersonen
 
 Zuerst musst
+
 
 
 ## Programmiercode
