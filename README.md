@@ -33,7 +33,7 @@ Aber es wäre auch interessant sein, Inclusion Handicap (Dachverband der Behinde
 
 2. Für die grafische Darstellung der Daten sind mehrere Lösungen möglich. Dank Modulen wie **Matplotlib** oder **Plotly** können wir direkt mit Python arbeiten. Wir können auch Schnittstellen wie **Datawrapper** oder **Flourish** verwenden. Also, welche Lösung sollen wir wählen? Um dies herauszufinden, ist es ideal, beide Lösungen testen zu können. Deshalb habe ich sowohl mit Plotly als auch mit Datawrapper Grafiken erstellt. Ich habe etwas länger gebraucht, aber es hat sich gelohnt. Beide Lösungen sind interessant. In beiden Fällen sind die Grafiken lesbar und effizient. Es war daher sehr schwer zu wählen. Am Ende habe ich mich für die mit **Datawrapper** erstellten grafischen Darstellungen entschieden, da diese interaktiver sind.
 
-Hier sind die grafischen Visualisierungen, die direkt mit **Plotly** und **Geopandas** gemacht werden.
+###### Hier sind die grafischen Visualisierungen, die direkt mit **Plotly** und **Geopandas** gemacht werden.
 
 ![](graphics/accessibilite.png)
 
@@ -41,7 +41,7 @@ Hier sind die grafischen Visualisierungen, die direkt mit **Plotly** und **Geopa
 
 ![](graphics/fribourg.jpg)
 
-Und hier sind die grafischen Visualisierungen, die mit **Datawrapper** erstellt wurden.
+###### Und hier sind die grafischen Visualisierungen, die mit **Datawrapper** erstellt wurden.
 
 
 ## Briefingpersonen
