@@ -55,3 +55,4 @@ Zuerst musst
 | 31.12.2020  | 0h30  | Repository auf Github erstellen |
 | 31.12.2020  | 1h30  | Mein Github-Repository ausfüllen, mit Informationen wie die Ausgangsthese, die Einschätzung von Aufwand/Ertrag, die Bezeichnung des Knackpunkts des Projektes |
 | 01.01.2021  | 4h  | Grafischer Darstellungen mit **Datawrapper** und **Plotly** testen |
+| 02.01.2021  | 0h30  | Spider für Einschätzung von Aufwand / Ertrag erstellen |
