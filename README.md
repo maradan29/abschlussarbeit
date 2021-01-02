@@ -23,6 +23,8 @@ Für unsere Analyse verwenden wir die Suchmaschine, die auf der Website des Verb
 
 Auf den ersten Blick sollte das Sammeln der Daten kein Problem sein, da die Website des Verbandes der Museen der Schweiz gut strukturiert zu sein scheint. Wir sollten jedoch ein wenig Arbeit erwarten, um die Daten zu bereinigen. Es wird auch Zeit für die Datenarbeit mit Pandas brauchen, aber auch für die Arbeit mit Geodatena (mit dem Google API-Schlüssel und Geopandas). Wir sollten auch nicht vergessen, Zeit für die grafische Visualisierung aufzuwenden, um die Daten und insbesondere die Geodaten so klar wie möglich darstellen zu können. Es ist eine Herausforderung, weil ich noch nie zuvor Geodaten verwendet habe! Meine Idee ist es, einen Teil der Daten auf einer Karte mit präziser Geolokalisierung darstellen zu können. Angesichts der großen Anzahl von Museen in der Schweiz (mehr als 1200) erscheint es mir jedoch nicht relevant, sie alle auf einer Landkarte zu platzieren. Es würde zu viele Punkte auf der Karte geben und es wäre nicht lesbar. Bei dieser Grafik werde ich mich daher auf die Museen des Kantons Freiburg konzentrieren. Aber ich werde natürlich andere Grafiken erstellen, die die Daten für die gesamte Schweiz nach Kanton darstellen.
 
+![](diverses/spider.png)
+
 
 ## Knackpunkte
 
