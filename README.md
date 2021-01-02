@@ -82,6 +82,7 @@ Zuerst musst
 | 30.12.2020  | 7h  | Mit den Geodaten arbeiten (in meinem Notebook **Museen.ipynb**) |
 | 31.12.2020  | 1h  | Notebook **Museen.ipynb** kommentieren (es ist sehr wichtig, dass mein Code so klar wie möglich ist. Es muss nicht nur für andere verständlich sein, sondern auch für mich selbst, wenn ich es in einigen Monaten oder Jahren wieder verwenden muss) |
 | 31.12.2020  | 0h30  | Repository auf Github erstellen |
-| 31.12.2020  | 1h30  | Mein Github-Repository ausfüllen, mit Informationen wie die Ausgangsthese, die Einschätzung von Aufwand/Ertrag, die Bezeichnung des Knackpunkts des Projektes |
+| 31.12.2020  | 1h30  | Github-Repository ausfüllen, mit Informationen wie die Ausgangsthese, die Einschätzung von Aufwand/Ertrag, die Bezeichnung des Knackpunkts des Projektes |
 | 01.01.2021  | 4h  | Grafischer Darstellungen mit **Datawrapper** und **Plotly** testen |
 | 02.01.2021  | 0h30  | Spider für Einschätzung von Aufwand / Ertrag erstellen |
+| 02.01.2021  | 0h30  | Github-Repository vervollständigen |
