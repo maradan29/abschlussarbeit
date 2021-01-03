@@ -88,7 +88,7 @@ Zuerst musst
 | Datum  | Aufwand | Tätigkeit |
 | ------------- | ------------- | ------------- |
 | 28.12.2020  | 2h  | Idee entwickeln, Ausgangsthese ausarbeiten  |
-| 29.12.2020  | 8h  | Scraper für Museen schreiben (in meinem Notebook **Museen.ipynb**) |
+| 29.12.2020  | 6h  | Scraper für Museen schreiben (in meinem Notebook **Museen.ipynb**) |
 | 30.12.2020  | 1h30  | Google API-Schlüssel erstellen |
 | 30.12.2020  | 7h  | Mit den Geodaten arbeiten (in meinem Notebook **Museen.ipynb**) |
 | 31.12.2020  | 1h  | Notebook **Museen.ipynb** kommentieren (es ist sehr wichtig, dass mein Code so klar wie möglich ist. Es muss nicht nur für andere verständlich sein, sondern auch für mich selbst, wenn ich es in einigen Monaten oder Jahren wieder verwenden muss) |
@@ -97,3 +97,4 @@ Zuerst musst
 | 01.01.2021  | 4h  | Grafischer Darstellungen mit **Datawrapper** und **Plotly** testen |
 | 02.01.2021  | 0h30  | Spider für Einschätzung von Aufwand / Ertrag erstellen |
 | 02.01.2021  | 0h30  | Github-Repository vervollständigen |
+| 03.01.2021  | 2h  | Scraper für Museen verbessern |
