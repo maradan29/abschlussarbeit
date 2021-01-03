@@ -66,6 +66,16 @@ Aber es wäre auch interessant sein, Inclusion Handicap (Dachverband der Behinde
 Zuerst musst
 
 
+## Inputs
+
+![](inputs/g1g17.shp) -> Karte der Schweiz für Geodaten
+![](inputs/je-d-01.02.03.04.xlsx) -> Bevölkerung nach Kanton am 31. Dezember 2019 (Bundesamt für Statistik)
+
+
+## Outputs
+
+Zuerst musst
+
 
 ## Programmiercode
 
