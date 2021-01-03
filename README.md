@@ -69,6 +69,7 @@ Zuerst musst
 ## Inputs
 
 [Karte der Schweiz für Geodaten](inputs/g1g17.shp)
+
 [Bevölkerung nach Kanton (Bundesamt für Statistik)](inputs/je-d-01.02.03.04.xlsx)
 
 
