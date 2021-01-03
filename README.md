@@ -68,8 +68,8 @@ Zuerst musst
 
 ## Inputs
 
-![](inputs/g1g17.shp) -> Karte der Schweiz für Geodaten
-![](inputs/je-d-01.02.03.04.xlsx) -> Bevölkerung nach Kanton am 31. Dezember 2019 (Bundesamt für Statistik)
+[Karte der Schweiz für Geodaten](inputs/g1g17.shp)
+[Bevölkerung nach Kanton (Bundesamt für Statistik)](inputs/je-d-01.02.03.04.xlsx)
 
 
 ## Outputs
