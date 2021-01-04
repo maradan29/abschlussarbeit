@@ -63,15 +63,18 @@ Aber es wäre auch interessant sein, Inclusion Handicap (Dachverband der Behinde
 
 ## Briefingpersonen
 
-###### Interview Isabelle Raboud-Schüle, Direktorin von dem Musée gruérien in Bulle (FR) und Präsidentin des Verbands der Museen der Schweiz
+###### Interview mit Isabelle Raboud-Schüle, Direktorin von dem Musée gruérien in Bulle (FR) und Präsidentin des Verbands der Museen der Schweiz
 
 **Welche Museen sind auf Ihrer Website aufgeführt?**
+
 Die Suchmaschine listet alle Schweizer Museen auf, die sich registrieren wollten. Der Benutzer kann auch nur Museen auswählen, die Mitglieder des Verbandes der Museen der Schweiz sind. Um Mitglied unserer Vereinigung zu werden, gibt es viele Kriterien, die die Regeln von dem International Council of Museums (ICOM) entsprechen. Zum Beispiel muss das Museum nachhaltig sein. Ein Museum ist ein Ort, an dem Dinge aufbewahrt werden. Es ist also eine langfristige Verpflichtung. Das Museum muss auch eine klare institutionelle Grundlage haben, mit einem Statut, einer Finanzierung und einer Organisation, die transparent ist, ob es sich um einen Verein oder eine Stiftung handelt. Ein weiteres Kriterium ist ein Standort zu haben, der für Besucher direkt zugänglich ist. Besucher sollten nicht durch ein Geschäft oder ein Hotel gehen müssen, um die Ausstellungen zu erreichen. In der Schweiz ist die Definition von Museum jedoch sehr weit gefasst, da dieses Wort nicht geschützt ist. Jeder kann ein Museum eröffnen, wenn er möchte.
 
 **In der Schweiz ist der Prozentsatz der Museen mit vollständige Rollstuhlgängigkeit sehr gering. Was denken Sie?**
+
 Viele Museen befinden sich in historischen Gebäuden, die oft geschützt sind. Es ist daher sehr schwierig, wenn nicht unmöglich, eine vollständige Zugänglichkeit für Rollstuhlfahrer zu gewährleisten. Zum Beispiel müsste viel Geld investiert werden, um Außenaufzüge zu bauen. Und dies ist nicht immer mit der Erhaltung des erbauten Erbes vereinbar. Museen, die vollständig zugänglich sind, sind solche, die in speziell für sie errichteten Gebäuden untergebracht sind. Heute geschieht dies immer mehr, wie in Lausanne mit dem Kunstviertel Plateforme 10, aber die meisten Museen befinden sich in Gebäuden, die nicht dafür konzipiert wurden, wie Häuser, Werkstätten oder sogar Lagerplätze wie eine Weizenscheune.
 
 **Sollten Anstrengungen unternommen werden, um Museen zugänglicher zu machen?**
+
 Zugänglichkeitsprobleme betreffen nicht nur Menschen mit eingeschränkter Mobilität, sondern auch Familien mit Kinderwagen. Es gibt auch Zugänglichkeitsprobleme für Menschen mit sensorischen Schwierigkeiten, zum Beispiel visuell oder hörend. Die Museen haben bereits erhebliche Anstrengungen unternommen, aber wir müssen noch große Fortschritte erzielen.
 
 
@@ -107,5 +110,5 @@ Zuerst musst
 | 02.01.2021  | 0h30  | Spider für Einschätzung von Aufwand / Ertrag erstellen |
 | 02.01.2021  | 0h30  | Github-Repository vervollständigen |
 | 03.01.2021  | 2h  | Scraper für Museen verbessern |
-| 04.01.2021  | 1h  | Interview von Isabelle Raboud-Schüle, Präsidentin des Verbands der Museen der Schweiz |
+| 04.01.2021  | 1h  | Interview mit Isabelle Raboud-Schüle, Präsidentin des Verbands der Museen der Schweiz |
 | 04.01.2021  | 2h  | Scraper für Museen verbessern |
