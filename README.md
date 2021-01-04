@@ -110,7 +110,8 @@ Zuerst musst
 | 31.12.2020  | 1h30  | Github-Repository ausfüllen, mit Informationen wie die Ausgangsthese, die Einschätzung von Aufwand/Ertrag, die Bezeichnung des Knackpunkts des Projektes |
 | 01.01.2021  | 4h  | Grafischer Darstellungen mit **Datawrapper** und **Plotly** testen |
 | 02.01.2021  | 0h30  | Spider für Einschätzung von Aufwand / Ertrag erstellen |
-| 02.01.2021  | 0h30  | Github-Repository vervollständigen |
+| 02.01.2021  | 0h30  | Github-Repository ausfüllen |
 | 03.01.2021  | 2h  | Scraper für Museen verbessern |
 | 04.01.2021  | 1h  | Kontakt mit Isabelle Raboud-Schüle, Präsidentin des Verbands der Museen der Schweiz |
 | 04.01.2021  | 2h  | Scraper für Museen noch verbessern |
+| 04.01.2021  | 0h30  | Github-Repository ausfüllen |
