@@ -112,5 +112,5 @@ Zuerst musst
 | 02.01.2021  | 0h30  | Spider für Einschätzung von Aufwand / Ertrag erstellen |
 | 02.01.2021  | 0h30  | Github-Repository vervollständigen |
 | 03.01.2021  | 2h  | Scraper für Museen verbessern |
-| 04.01.2021  | 1h  | Interview mit Isabelle Raboud-Schüle, Präsidentin des Verbands der Museen der Schweiz |
+| 04.01.2021  | 1h  | Kontakt mit Isabelle Raboud-Schüle, Präsidentin des Verbands der Museen der Schweiz |
 | 04.01.2021  | 2h  | Scraper für Museen noch verbessern |
