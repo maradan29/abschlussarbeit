@@ -62,7 +62,7 @@ Auf den ersten Blick sollte das Sammeln der Daten kein Problem sein, da die Webs
 
 
 
-## Briefingpersonen
+## Briefingperson
 
 ###### Interview mit Isabelle Raboud-Schüle, Direktorin von dem Musée gruérien in Bulle (FR) und Präsidentin des Verbands der Museen der Schweiz
 
