@@ -72,7 +72,7 @@ Die Suchmaschine listet alle Schweizer Museen auf, die sich registrieren wollten
 
 **In der Schweiz ist der Prozentsatz der Museen mit vollständige Rollstuhlgängigkeit sehr gering. Was denken Sie?**
 
-Viele Museen befinden sich in historischen Gebäuden, die oft geschützt sind. Es ist daher sehr schwierig, wenn nicht unmöglich, eine vollständige Zugänglichkeit für Rollstuhlfahrer zu gewährleisten. Zum Beispiel müsste viel Geld investiert werden, um Außenaufzüge zu bauen. Und dies ist nicht immer mit der Erhaltung des erbauten Erbes vereinbar. Museen, die vollständig zugänglich sind, sind solche, die in speziell für sie errichteten Gebäuden untergebracht sind. Heute geschieht dies immer mehr, wie in Lausanne mit dem Kunstviertel Plateforme 10, aber die meisten Museen befinden sich in Gebäuden, die nicht dafür konzipiert wurden, wie Häuser, Werkstätten oder sogar Lagerplätze wie eine Weizenscheune.
+Viele Museen befinden sich in historischen Gebäuden, die oft geschützt sind. Es ist daher sehr schwierig, wenn nicht unmöglich, eine vollständige Zugänglichkeit für Rollstuhlfahrer zu gewährleisten. Zum Beispiel müsste viel Geld investiert werden, um Außenaufzüge zu bauen. Und dies ist nicht immer mit der Erhaltung des erbauten Erbes vereinbar. Museen, die vollständig zugänglich sind, sind solche, die in speziell für sie errichteten Gebäuden untergebracht sind. Heute geschieht dies immer mehr, wie in Lausanne mit dem Kunstviertel Plateforme 10, aber die meisten Museen befinden sich in Gebäuden, die nicht dafür konzipiert wurden, wie Häuser, Werkstätten oder ländliche Gebäude.
 
 **Sollten Anstrengungen unternommen werden, um Museen zugänglicher zu machen?**
 
