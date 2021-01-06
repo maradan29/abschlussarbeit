@@ -50,7 +50,7 @@ Auf den ersten Blick sollte das Sammeln der Daten kein Problem sein, da die Webs
 
 3. Für die grafische Darstellung der Daten sind mehrere Lösungen möglich. Dank Modulen wie **Matplotlib** oder **Plotly** können wir direkt mit Python arbeiten. Wir können auch Schnittstellen wie **Datawrapper** oder **Flourish** verwenden. Also, welche Lösung sollen wir wählen? Um dies herauszufinden, ist es ideal, beide Lösungen testen zu können. Deshalb habe ich sowohl mit Plotly als auch mit Datawrapper Grafiken erstellt. Ich habe etwas länger gebraucht, aber es hat sich gelohnt. Beide Lösungen sind interessant. In beiden Fällen sind die Grafiken lesbar und effizient. Es war daher sehr schwer zu wählen. Am Ende habe ich mich für die mit **Datawrapper** erstellten grafischen Darstellungen entschieden, da diese interaktiver sind.
 
-###### Hier sind die grafischen Visualisierungen, die direkt mit **Plotly** und **Geopandas** gemacht werden.
+###### Hier sind die grafischen Visualisierungen, die direkt mit **Plotly** und **Geopandas** gemacht werden
 
 ![](graphics/accessibilite.png)
 
@@ -58,7 +58,13 @@ Auf den ersten Blick sollte das Sammeln der Daten kein Problem sein, da die Webs
 
 ![](graphics/fribourg.jpg)
 
-###### Und hier sind die grafischen Visualisierungen, die mit **Datawrapper** erstellt wurden.
+###### Und hier sind die grafischen Visualisierungen, die mit **Datawrapper** erstellt wurden
+
+![](graphics/accessibilite2.png)
+
+![](graphics/densite2.png)
+
+![](graphics/fribourg2.png)
 
 
 
