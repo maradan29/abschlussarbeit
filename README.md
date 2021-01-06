@@ -10,9 +10,9 @@
 - [x] Einschätzung von Aufwand/Ertrag vor Beginn des Projektes 
 - [x] Bezeichnung des Knackpunkts des Projektes
 - [x] Kurze Zusammenfassung des Gesprächs mit einer Briefing Person 
-- [ ] Datensatz
-- [ ] Programmiercode
-- [ ] Arbeitsprotokoll
+- [x] Datensatz
+- [x] Programmiercode
+- [x] Arbeitsprotokoll
 
 
 
@@ -105,7 +105,7 @@ Zugänglichkeitsprobleme betreffen nicht nur Menschen mit eingeschränkter Mobil
 
 ## Programmiercode
 
-Zuerst musst
+[Mein Notebook Museen.ipynb](Museen.ipynb)
 
 
 ## Arbeitsprotokoll
