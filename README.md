@@ -94,7 +94,13 @@ Zugänglichkeitsprobleme betreffen nicht nur Menschen mit eingeschränkter Mobil
 
 ## Outputs
 
-Zuerst musst
+[Daten mit dem Prozentsatz der Rollstuhlgängigkeit nach Kanton](Outputs/accessibilite.csv)
+
+[Daten mit der Anzahl der Museen nach Bevölkerung](Outputs/densite.csv)
+
+[Daten für die Karte des Kantons Freiburg](Outputs/adresses.csv)
+
+[Backup mit allen Daten](Outputs/sauvegarde.csv)
 
 
 ## Programmiercode
