@@ -48,7 +48,7 @@ Auf den ersten Blick sollte das Sammeln der Daten kein Problem sein, da die Webs
 
 2. Die Suchmaschine auf Museums.ch listet alle Schweizer Museen auf, die sich registrieren wollten. Also habe ich natürlich zuerst Daten aus allen Museen gesammelt. Aber während meines Interviews mit Isabelle Raboud-Schüle erzählte sie mir, dass er ist auch möglich, nur nach Museen suchen, die Mitglieder des Verbandes der Museen der Schweiz sind. Dies repräsentiert alle Museen, die den Standards des International Council of Museums (ICOM) entsprechen. Es erschien mir daher relevanter, für meine Analyse nur die "offiziellen" Museen beizubehalten, die Teil des Vereins sind. In der Tat, wie Isabelle Raboud-Schüle sagt: "In der Schweiz ist die Definition von Museum sehr weit gefasst, da dieses Wort nicht geschützt ist. Jeder kann ein Museum eröffnen, wenn er möchte". Das Sortieren erscheint mir daher wichtig. So habe ich meinen Scraper angepasst.
 
-3. Für die grafische Darstellung der Daten sind mehrere Lösungen möglich. Dank Modulen wie **Matplotlib** oder **Plotly** können wir direkt mit Python arbeiten. Wir können auch Schnittstellen wie **Datawrapper** oder **Flourish** verwenden. Also, welche Lösung sollen wir wählen? Um dies herauszufinden, ist es ideal, beide Lösungen testen zu können. Deshalb habe ich sowohl mit Plotly als auch mit Datawrapper Grafiken erstellt. Ich habe etwas länger gebraucht, aber es hat sich gelohnt. Beide Lösungen sind interessant. In beiden Fällen sind die Grafiken lesbar und effizient. Es war daher sehr schwer zu wählen. Am Ende habe ich mich für die mit **Datawrapper** erstellten grafischen Darstellungen entschieden, da diese interaktiver sind.
+3. Für die grafische Darstellung der Daten sind mehrere Lösungen möglich. Dank Modulen wie **Matplotlib** oder **Plotly** können wir direkt mit Python arbeiten. Wir können auch Schnittstellen wie **Datawrapper**, **Infogram** oder **Flourish** verwenden. Also, welche Lösung sollen wir wählen? Um dies herauszufinden, ist es ideal, beide Lösungen testen zu können. Deshalb habe ich sowohl mit Plotly als auch mit Datawrapper Grafiken erstellt. Ich habe etwas länger gebraucht, aber es hat sich gelohnt. Beide Lösungen sind interessant. In beiden Fällen sind die Grafiken lesbar und effizient. Es war daher sehr schwer zu wählen. Am Ende habe ich mich für die mit **Datawrapper** erstellten grafischen Darstellungen entschieden, da diese interaktiver sind.
 
 ###### Hier sind die grafischen Visualisierungen, die direkt mit **Plotly** und **Geopandas** gemacht werden
 
@@ -126,5 +126,5 @@ Zugänglichkeitsprobleme betreffen nicht nur Menschen mit eingeschränkter Mobil
 | 04.01.2021  | 1h30  | Kontakt mit Isabelle Raboud-Schüle, Präsidentin des Verbands der Museen der Schweiz |
 | 04.01.2021  | 2h  | Scraper für Museen noch verbessern |
 | 04.01.2021  | 0h30  | Github-Repository weiter ausfüllen |
-| 06.01.2021  | 1h30  | Kontakt mit Elise Meyer, Kuratorin vom Museum Charmey |
+| 06.01.2021  | 1h30  | Kontakt mit Elise Meyer, Kuratorin bei Museum Charmey |
 | 06.01.2021  | 1h30  | Kontakt mit Nicole Grieve, die für die Fachstelle Kultur inklusiv von Pro Infirmis arbeitet |
