@@ -123,7 +123,7 @@ Zugänglichkeitsprobleme betreffen nicht nur Menschen mit eingeschränkter Mobil
 | 02.01.2021  | 0h30  | Spider für Einschätzung von Aufwand / Ertrag erstellen |
 | 02.01.2021  | 0h30  | Github-Repository weiter ausfüllen |
 | 03.01.2021  | 2h  | Scraper für Museen verbessern |
-| 04.01.2021  | 1h30  | Kontakt mit Isabelle Raboud-Schüle, Präsidentin des Verbands der Museen der Schweiz |
+| 04.01.2021  | 1h30  | Kontakt mit Isabelle Raboud-Schüle. Als Präsidentin des Verbands der Museen der Schweiz ist sie die wichtigste Briefingperson für meine Analyse. Deshalb ist sie die erste Briefingperson, die ich kontaktiert habe. |
 | 04.01.2021  | 2h  | Scraper für Museen noch verbessern |
 | 04.01.2021  | 0h30  | Github-Repository weiter ausfüllen |
 | 06.01.2021  | 1h30  | Kontakt mit Elise Meyer. Sie ist Kuratorin bei Museum Charmey, im Kanton Freiburg. Mein Ziel ist es, das Beispiel eines Museums zu zeigen, das sich in einem alten Gebäude befindet.  |
