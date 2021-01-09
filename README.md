@@ -128,3 +128,4 @@ Zugänglichkeitsprobleme betreffen nicht nur Menschen mit eingeschränkter Mobil
 | 04.01.2021  | 0h30  | Github-Repository weiter ausfüllen |
 | 06.01.2021  | 1h30  | Kontakt mit Elise Meyer, Kuratorin bei Museum Charmey |
 | 06.01.2021  | 1h30  | Kontakt mit Nicole Grieve, die für die Fachstelle Kultur inklusiv von Pro Infirmis arbeitet |
+| 08.01.2021  | 1h30  | Schreiben des Unterartikels |
