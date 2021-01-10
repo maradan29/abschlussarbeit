@@ -114,7 +114,7 @@ Zugänglichkeitsprobleme betreffen nicht nur Menschen mit eingeschränkter Mobil
 | ------------- | ------------- | ------------- |
 | 28.12.2020  | 2h  | Idee entwickeln, Ausgangsthese ausarbeiten.  |
 | 29.12.2020  | 4h  | Scraper für Museen schreiben (in meinem Notebook **Museen.ipynb**). |
-| 30.12.2020  | 1h30  | Google API-Schlüssel erstellen. Ich brauche es, um die Postanschriften des Museums in geografische Koordinaten umzuwandeln. Beachten Sie, dass mein Google API-Schlüssel aus Gründen der Vertraulichkeit nicht im Code angegeben ist. Es wird Ihnen jedoch per E-Mail zugeschickt, damit Sie das Notebook benutzen können. |
+| 30.12.2020  | 1h30  | Google API-Schlüssel erstellen. Ich brauche es, um die Postanschriften den Museen in geografische Koordinaten umzuwandeln. Beachten Sie, dass mein Google API-Schlüssel aus Gründen der Vertraulichkeit nicht im Code angegeben ist. Es wird Ihnen jedoch per E-Mail zugeschickt, damit Sie das Notebook benutzen können. |
 | 30.12.2020  | 7h  | Mit den Geodaten arbeiten (in meinem Notebook **Museen.ipynb**). Die Idee ist, eine grafische Darstellung von geografischen Daten auf einer Karte zu erstellen. |
 | 31.12.2020  | 1h  | Notebook **Museen.ipynb** kommentieren (es ist sehr wichtig, dass mein Code so klar wie möglich ist. Es muss nicht nur für andere verständlich sein, sondern auch für mich selbst, wenn ich es in einigen Monaten oder Jahren wieder verwenden muss). |
 | 31.12.2020  | 0h30  | Repository auf Github erstellen. |
