@@ -125,7 +125,7 @@ Zugänglichkeitsprobleme betreffen nicht nur Menschen mit eingeschränkter Mobil
 | 03.01.2021  | 2h  | Scraper für Museen verbessern. |
 | 04.01.2021  | 1h30  | Kontakt mit Isabelle Raboud-Schüle. Als Präsidentin des Verbands der Museen der Schweiz ist sie die wichtigste Briefingperson für meine Analyse. Deshalb ist sie die erste Briefingperson, die ich kontaktiert habe. |
 | 04.01.2021  | 2h  | Scraper für Museen noch verbessern. |
-| 04.01.2021  | 0h30  | Github-Repository weiter ausfüllen. |
+| 04.01.2021  | 0h30  | Github-Repository weiter ausfüllen. Insbesondere muss ich mein Arbeitsprotokoll aktualisieren. |
 | 06.01.2021  | 1h30  | Kontakt mit Elise Meyer. Sie ist Kuratorin bei Museum Charmey, im Kanton Freiburg. Mein Ziel ist es, das Beispiel eines Museums zu zeigen, das sich in einem alten Gebäude befindet.  |
 | 06.01.2021  | 1h30  | Kontakt mit Nicole Grieve. Sie arbeitet für die Fachstelle Kultur inklusiv von Pro Infirmis. Ich habe sie kontaktiert, weil sie die Problematik meines Artikels (Zugänglichkeit der Kultur) sehr gut kennt. |
 | 08.01.2021  | 1h30  | Schreiben des Unterartikels. Es handelt sich um die Gesamtzahl der Museen pro Kanton. Ich finde dieses Thema ist eine interessante Ergänzung zum Hauptthema. |
