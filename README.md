@@ -20,7 +20,7 @@
 
 [Des musées encore trop inaccessibles](https://www.laliberte.ch/news/regions/canton/des-musees-encore-trop-inaccessibles-590958)
 
-Um den Artikel zu lesen, müssen Sie [hier](https://www.laliberte.ch/abos/espace-clients/creer-compte/) ein kostenloses Konto erstellen.
+Um den Artikel zu lesen, müssen sie [hier](https://www.laliberte.ch/abos/espace-clients/creer-compte/) ein kostenloses Konto erstellen.
 
 
 
