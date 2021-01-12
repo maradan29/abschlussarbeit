@@ -132,3 +132,4 @@ Zugänglichkeitsprobleme betreffen nicht nur Menschen mit eingeschränkter Mobil
 | 08.01.2021  | 1h30  | Schreiben des Unterartikels. Es handelt sich um die Gesamtzahl der Museen pro Kanton. Ich finde dieses Thema ist eine interessante Ergänzung zum Hauptthema. |
 | 10.01.2021  | 1h30  | Datenüberprüfung. Meiner Meinung nach ist es wichtig, nicht nur Ihren Code zu überprüfen, sondern auch die Output, um sicherzustellen, dass alle gesammelten Daten sinnvoll sind. |
 | 12.01.2021  | 5h  | Schreiben des Hauptartikels. |
+| 12.01.2021  | 1h  | Mein Repository auf Github vervollständigen. |
