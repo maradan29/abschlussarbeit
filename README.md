@@ -130,5 +130,5 @@ Zugänglichkeitsprobleme betreffen nicht nur Menschen mit eingeschränkter Mobil
 | 06.01.2021  | 1h30  | Kontakt mit Elise Meyer. Sie ist Kuratorin bei Museum Charmey, im Kanton Freiburg. Mein Ziel ist es, das Beispiel eines Museums zu zeigen, das sich in einem alten Gebäude befindet.  |
 | 06.01.2021  | 1h30  | Kontakt mit Nicole Grieve. Sie arbeitet für die Fachstelle Kultur inklusiv von Pro Infirmis. Ich habe sie kontaktiert, weil sie die Problematik meines Artikels (Zugänglichkeit der Kultur) sehr gut kennt. |
 | 08.01.2021  | 1h30  | Schreiben des Unterartikels. Es handelt sich um die Gesamtzahl der Museen pro Kanton. Ich finde dieses Thema ist eine interessante Ergänzung zum Hauptthema. |
-| 10.01.2021  | 1h30  | Datenüberprüfung. Meiner Meinung nach ist es wichtig, nicht nur Ihren Code zu überprüfen, sondern auch die Output zu überprüfen, um sicherzustellen, dass alle gesammelten Daten sinnvoll sind. |
+| 10.01.2021  | 1h30  | Datenüberprüfung. Meiner Meinung nach ist es wichtig, nicht nur Ihren Code zu überprüfen, sondern auch die Output, um sicherzustellen, dass alle gesammelten Daten sinnvoll sind. |
 | 12.01.2021  | 5h  | Schreiben des Hauptartikels. |
